@@ -6,10 +6,17 @@ title: Developer Guide
 {:toc}
 
 --------------------------------------------------------------------------------------------------------------------
+## **Introduction**
+
+*{Overview: The purpose of this guide}*
+  
+
 
 ## **Acknowledgements**
 
-* {list here sources of all reused/adapted ideas, code, documentation, and third-party libraries -- include links to the original source as well}
+* AB3
+* JavaFX stuff
+  *{list here sources of all reused/adapted ideas, code, documentation, and third-party libraries -- include links to the original source as well}*
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -278,6 +285,8 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 | `* * *`  | user                                       | find a person by name          | locate details of persons without having to go through the entire list |
 | `* *`    | user                                       | hide private contact details   | minimize chance of someone else seeing them by accident                |
 | `*`      | user with many persons in the address book | sort persons by name           | locate a person easily                                                 |
+
+
 
 *{More to be added}*
 
